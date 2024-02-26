@@ -30,3 +30,5 @@ const onLoadTemplate = template => {
 const goBack = () => history.back()
 
 const goForward = () => history.forward()
+
+console.log("test")
